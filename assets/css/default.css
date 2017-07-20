@@ -26,7 +26,15 @@ h1 {
     margin: 0 0 18px 0;
     padding-top: 10px;
 }
-
+h2 {
+    display: block;
+    font-size: 1.5em;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
 h3 {
     font: 14px/18px "proxima-nova", "open-sans", Arial, Helvetica, sans-serif;
 }
