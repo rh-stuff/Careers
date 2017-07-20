@@ -53,8 +53,8 @@ p {
     height: 26px;
     width: 46px;
     transition-delay: .325s !important;
-    background-image: url(/site/assets/images/rh-logo-black-2016.png);
-    background-image: url(/site/assets/images/rh-logo-black-2016.svg), none;
+    background-image: url(/Careers/assets/images/rh-logo-black-2016.png);
+    background-image: url(/Careers/assets/images/rh-logo-black-2016.svg), none;
     background-size: 46px 26px;
 }
 
