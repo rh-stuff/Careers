@@ -263,6 +263,14 @@ p {
 #content {
     position: relative;
 }
+ul.bulleted {
+  margin: 0 0 9px; }
+  ul.bulleted li {
+    list-style-type: disc;
+    list-style-position: outside;
+    margin: 0 0 0 15px; }
+    ul.bulleted li ul li {
+      list-style-type: circle; }
 
 .flexbox .grid {
     display: -webkit-box;
