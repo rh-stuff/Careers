@@ -406,19 +406,13 @@ ul.bulleted {
 }
 
 #footer-copyright {
+    text-align: center;
     color: #666;
     font-size: 9px;
     letter-spacing: 0.2em;
     padding-bottom: 10px;
     margin-top: 65px;
 }
-
-#footer-copyright {
-    text-align: center;
-    margin-top: 5px;
-    font-size: 90%;
-}
-
 
 .company-info .four-fifths h1, .company-info .eight-tenths h1 {
     margin-top: 72px;
