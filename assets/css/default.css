@@ -153,6 +153,10 @@ p {
     background: transparent;
 }
 
+.shop-nav .trigger-subnav-category:last-child .subnav-category-text, .top-level-subnav.sale-nav .trigger-subnav-category:last-child .subnav-category-text {
+    margin-right: 0;
+}
+
 .trigger-subnav-category:first-child {
     margin-left: 0;
 }
