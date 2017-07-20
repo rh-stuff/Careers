@@ -60,7 +60,12 @@ p {
 .group {
     height: auto;
 }
-
+.group::after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden; }
 .logo {
     display: inline-block;
     position: relative;
