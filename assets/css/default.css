@@ -224,8 +224,8 @@ p {
 }
 
 .search-icon {
-    background: url(/site/assets/images/icon-search-black.png) center center no-repeat;
-    background-image: url(/site/assets/images/icon-search-black.svg), none;
+    background: url(/Careers/assets/images/icon-search-black.png) center center no-repeat;
+    background-image: url(/Careers/assets/images/icon-search-black.svg), none;
     background-size: 12px 12px;
     cursor: pointer;
     height: 12px;
