@@ -335,6 +335,9 @@ p {
     font: 300 12px/18px "proxima-nova", "open-sans", Arial, Helvetica, sans-serif;
     text-transform: uppercase;
 }
+  .sidebar__links a.activated {
+    color: black;
+    font-weight: 500; }
 
 .footer-container {
     min-width: 1060px;
