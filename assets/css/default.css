@@ -370,11 +370,6 @@ ul.bulleted {
 }
 
 #footer-menus {
-    box-sizing: border-box;
-    padding: 20px 0px 30px 80px;
-}
-
-#footer-menus {
     overflow: hidden;
     margin: 0 auto;
     box-sizing: border-box;
@@ -383,23 +378,31 @@ ul.bulleted {
     padding: 20px 0px 30px 80px;
     letter-spacing: 0.15em;
 }
-
+#footer-menus li {
+    margin-bottom: 8px;
+    font: 300 10px/17px "proxima-nova","open-sans",Arial,Helvetica,sans-serif;
+    text-transform: uppercase;
+}
+#footer-menus .menu {
+    overflow: hidden;
+    letter-spacing: 0.15em;
+}
+#footer-menus .menu a {
+    text-decoration: none;
+    color: #666;
+}
+#footer-menus .menu a:hover {
+    text-decoration: underline;
+    color: #666;
+}
 #footer-menus .menu h3 {
-    font: 12px/27px "minion-pro", Times, "Times New Roman";
+    font: 12px/27px "minion-pro",Times,"Times New Roman";
     text-transform: uppercase;
     margin-bottom: 14px;
     color: #333;
 }
-
-#footer-menus li {
-    margin-bottom: 8px;
-    font: 300 10px/17px "proxima-nova", "open-sans", Arial, Helvetica, sans-serif;
-    text-transform: uppercase;
-}
-
-#footer-menus .menu a {
-    text-decoration: none;
-    color: #666;
+#footer-menus .menu h3 a {
+    color: #333;
 }
 
 #footer-copyright {
