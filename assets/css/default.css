@@ -319,11 +319,11 @@ ul.bulleted {
 }
 
 .one-fifth, .two-tenths {
-    width: 20%;
+    width: 15%;
 }
 
 .four-fifths, .eight-tenths {
-    width: 80%;
+    width: 85%;
 }
 
 .grid__item {
